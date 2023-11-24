@@ -23,7 +23,7 @@ PY_Latest_Month_Wait_List = CALCULATE(SUM(All_Data[Total]),All_Data[Date]=EDATE(
 5. Avg/Medain Wait List, this function is used to switch between the average and median vlaue of the waiting list
 Avg/Median_Wait_List = SWITCH(VALUES('Calculation Method'[Calc Method]),"Average",[Avg_Wait_List],"Median",[Median_Wait_List])
 
-## Visualizaarions
+## Visualizations
 1. Card visuals for Latest Month Wait List and PY Latest Month Wait List
 2. Doughnut chart for average or median wait list by case type
 3. Clustered column chart for average or median wait list by time band and age profile.
