@@ -29,5 +29,7 @@ Avg/Median_Wait_List = SWITCH(VALUES('Calculation Method'[Calc Method]),"Average
 3. Clustered column chart for average or median wait list by time band and age profile.
 4. Multi card visualization for top 5 specialities in the average wait time
 5. Line charts for total wait time by date and case type
+6. ![image](https://github.com/BalaDaniel/Patient_Waiting_Time_Analysis/assets/143218101/91d0f9bc-9ba1-40d3-9c29-9983f1311583)
+
 
 
